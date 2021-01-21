@@ -8,7 +8,7 @@ https://ericneyman.wordpress.com/2020/12/13/pseudorandomness-contest-round-1/
 
 Here are the plots for comparision:
 
-![Comparision](/random_vs_human.png)
+![Comparision](/randomvshuman.png)
 
 Just run the script with the provided data and try to find any differences between computer-generated and human-generated strings.
 
